@@ -3,6 +3,8 @@
 Him, whose head is bedecked with a peacock feather and is adept in playing His flute, is the most beautiful.
 <br>Visualize images on command line.
 
+![image screenshot from the terminal](assets/image1.png)
+
 ## Table of Contents
 
 - [Installation](#installation)
