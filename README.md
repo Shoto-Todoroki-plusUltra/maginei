@@ -38,3 +38,6 @@ Make sure that a single line in the terminal is long enough to hold characters a
 
 ## NOTE
 Still a new project so bare with me.
+
+## FUTURE WORK
+To add feature to automatically find the dimensions of the terminal and find the optimal image size and go with that.
